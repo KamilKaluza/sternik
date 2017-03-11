@@ -1,0 +1,7 @@
+Hallo.class
+Hallo.java
+Hallo2
+Zadanie1.txt
+googlegrupa.txt
+pl
+test.txt
