@@ -1,2 +1,5 @@
 katowice-java@googlegroups.com
 
+http://ndpsoftware.com/git-cheatsheet.html#loc=index
+
+https://github.com/kkoziol
